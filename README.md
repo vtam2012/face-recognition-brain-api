@@ -9,8 +9,10 @@
 3. Run npm start
 
 ### Note:
-You must add your own API key in the controllers/image.js file to connect to Clarifai API. (Replace 'YOUR_API_KEY_HERE' with your apiKey)
+You must add your own API key in the controllers/image.js file to connect to Clarifai API. (Replace 'process.env.API_CLARIFAI' with your own apiKey)
 
 You can generate a Clarifai API key [here](https://www.clarifai.com/)
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
+Furthermore, you must also configure the connection to your database in the
+server.js file.
