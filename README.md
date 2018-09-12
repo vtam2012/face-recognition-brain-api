@@ -1,6 +1,6 @@
 # face-recognition-brain-api
 
- An API built to be used in conjunction with the face-recognition-brain application. This was a final project for the Udemy course (The Complete Web Developer in 2018: Zero to Mastery) taught by Andrei Neagoie (https://github.com/aneagoie)
+ An API built to be used in conjunction with the [face-recognition-brain application](https://github.com/vtam2012/face-recognition-brain). This was a final project for the Udemy course (The Complete Web Developer in 2018: Zero to Mastery) taught by Andrei Neagoie (https://github.com/aneagoie)
 
 ## How to use:
 
