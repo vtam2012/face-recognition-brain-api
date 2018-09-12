@@ -11,6 +11,6 @@
 ### Note:
 You must add your own API key in the controllers/image.js file to connect to Clarifai API. (Replace 'YOUR_API_KEY_HERE' with your apiKey)
 
-You can generate a Clarifai API key [here][https://www.clarifai.com/]
+You can generate a Clarifai API key [here](https://www.clarifai.com/)
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
