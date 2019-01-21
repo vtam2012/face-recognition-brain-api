@@ -9,7 +9,7 @@
 3. Run npm start
 
 ### Note:
-You must add your own API key in the controllers/image.js file to connect to Clarifai API. (Replace 'process.env.API_CLARIFAI' with your own apiKey)
+You must add your own API key in the controllers/image.js file to connect to Clarifai API. (Create a .env file and assign it to API_CLARIFAI)
 
 You can generate a Clarifai API key [here](https://www.clarifai.com/)
 
